@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "Jorge Zubieta <zubietajor@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.22.1"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.29.0"
+  }
 }
