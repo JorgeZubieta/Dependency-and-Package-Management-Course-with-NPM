@@ -10,6 +10,7 @@
   "author": "Jorge Zubieta <zubietajor@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "json-server": "^0.16.3",
     "moment": "^2.29.1"
   },
   "devDependencies": {
